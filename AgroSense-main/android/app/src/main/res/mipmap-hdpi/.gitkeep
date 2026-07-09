@@ -1,0 +1,10 @@
+# Placeholder for launcher icons
+# Generate your app icons using flutter_launcher_icons package
+# or place your ic_launcher.png files here
+
+# Directory structure should be:
+# mipmap-hdpi/ic_launcher.png
+# mipmap-mdpi/ic_launcher.png
+# mipmap-xhdpi/ic_launcher.png
+# mipmap-xxhdpi/ic_launcher.png
+# mipmap-xxxhdpi/ic_launcher.png

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "180177908800",
+    "firebase_url": "https://agrosense-228d8-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "agrosense-228d8",
+    "storage_bucket": "agrosense-228d8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:180177908800:android:6fae9bb5413c66e91c1ba5",
+        "android_client_info": {
+          "package_name": "com.agrosense.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "180177908800-sho980dj6t7b4lf3fh4741janr6rv82r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAph4ck5mxLOPxkm2KPQZmJjBXY9idc-V0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "180177908800-sho980dj6t7b4lf3fh4741janr6rv82r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

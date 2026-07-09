@@ -1,0 +1,110 @@
+{
+  "app_name": "AgroSense",
+  "welcome": "Welcome to AgroSense",
+  "splash_tagline": "Smart Farming Assistant",
+  
+  "language_selection": {
+    "title": "Select Your Language",
+    "subtitle": "Choose your preferred language",
+    "continue": "Continue"
+  },
+  
+  "auth": {
+    "phone_title": "Enter Phone Number",
+    "phone_hint": "9876543210",
+    "send_otp": "Send OTP",
+    "verify_otp": "Verify OTP",
+    "google_signin": "Continue with Google",
+    "terms": "By continuing, you agree to our Terms of Service and Privacy Policy"
+  },
+  
+  "dashboard": {
+    "home": "Home",
+    "fields": "Fields",
+    "community": "Community",
+    "profile": "Profile",
+    "today_tasks": "Today's Tasks",
+    "quick_actions": "Quick Actions",
+    "weather": "Weather",
+    "upcoming_tasks": "Upcoming Tasks",
+    "farm_overview": "Farm Overview"
+  },
+  
+  "tasks": {
+    "add_task": "Add Task",
+    "edit_task": "Edit Task",
+    "delete_task": "Delete Task",
+    "task_completed": "Task Completed",
+    "due_today": "Due Today",
+    "overdue": "Overdue",
+    "upcoming": "Upcoming"
+  },
+  
+  "weather": {
+    "title": "Weather Forecast",
+    "temperature": "Temperature",
+    "humidity": "Humidity",
+    "wind_speed": "Wind Speed",
+    "precipitation": "Precipitation",
+    "ai_advisory": "AI Advisory"
+  },
+  
+  "market": {
+    "title": "Market Prices",
+    "commodity": "Commodity",
+    "price": "Price",
+    "market_name": "Market",
+    "trend": "Trend"
+  },
+  
+  "diary": {
+    "title": "Farm Diary",
+    "new_entry": "New Entry",
+    "observation": "Observation",
+    "expense": "Expense",
+    "income": "Income",
+    "note": "Note"
+  },
+  
+  "ai_assistant": {
+    "title": "AgroBot Assistant",
+    "ask_question": "Ask your farming question...",
+    "send": "Send",
+    "voice_input": "Voice Input",
+    "example_questions": "Example Questions"
+  },
+  
+  "schemes": {
+    "title": "Government Schemes",
+    "check_eligibility": "Check Eligibility",
+    "apply_now": "Apply Now",
+    "eligible": "Eligible",
+    "not_eligible": "Not Eligible"
+  },
+  
+  "settings": {
+    "title": "Settings",
+    "language": "Language",
+    "theme": "Theme",
+    "notifications": "Notifications",
+    "sync": "Sync Data",
+    "logout": "Logout"
+  },
+  
+  "common": {
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit",
+    "add": "Add",
+    "search": "Search",
+    "filter": "Filter",
+    "loading": "Loading...",
+    "error": "Error occurred",
+    "success": "Success",
+    "no_data": "No data available",
+    "offline": "Offline Mode",
+    "syncing": "Syncing...",
+    "last_synced": "Last synced"
+  }
+}

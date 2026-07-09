@@ -1,0 +1,76 @@
+{
+  "app_name": "AgroSense",
+  "welcome": "AgroSense में आपका स्वागत है",
+  "splash_tagline": "स्मार्ट खेती सहायक",
+  
+  "language_selection": {
+    "title": "अपनी भाषा चुनें",
+    "subtitle": "अपनी पसंदीदा भाषा चुनें",
+    "continue": "जारी रखें"
+  },
+  
+  "auth": {
+    "phone_title": "फ़ोन नंबर दर्ज करें",
+    "phone_hint": "9876543210",
+    "send_otp": "OTP भेजें",
+    "verify_otp": "OTP सत्यापित करें",
+    "google_signin": "Google से जारी रखें",
+    "terms": "जारी रखकर, आप हमारी सेवा की शर्तों और गोपनीयता नीति से सहमत हैं"
+  },
+  
+  "dashboard": {
+    "home": "होम",
+    "fields": "खेत",
+    "community": "समुदाय",
+    "profile": "प्रोफ़ाइल",
+    "today_tasks": "आज के कार्य",
+    "quick_actions": "त्वरित क्रियाएं",
+    "weather": "मौसम",
+    "upcoming_tasks": "आगामी कार्य",
+    "farm_overview": "फार्म अवलोकन"
+  },
+  
+  "tasks": {
+    "add_task": "कार्य जोड़ें",
+    "edit_task": "कार्य संपादित करें",
+    "delete_task": "कार्य हटाएं",
+    "task_completed": "कार्य पूर्ण",
+    "due_today": "आज देय",
+    "overdue": "अतिदेय",
+    "upcoming": "आगामी"
+  },
+  
+  "weather": {
+    "title": "मौसम पूर्वानुमान",
+    "temperature": "तापमान",
+    "humidity": "आर्द्रता",
+    "wind_speed": "हवा की गति",
+    "precipitation": "वर्षा",
+    "ai_advisory": "AI सलाह"
+  },
+  
+  "market": {
+    "title": "बाजार मूल्य",
+    "commodity": "वस्तु",
+    "price": "मूल्य",
+    "market_name": "बाजार",
+    "trend": "रुझान"
+  },
+  
+  "common": {
+    "save": "सहेजें",
+    "cancel": "रद्द करें",
+    "delete": "हटाएं",
+    "edit": "संपादित करें",
+    "add": "जोड़ें",
+    "search": "खोजें",
+    "filter": "फ़िल्टर",
+    "loading": "लोड हो रहा है...",
+    "error": "त्रुटि हुई",
+    "success": "सफलता",
+    "no_data": "कोई डेटा उपलब्ध नहीं",
+    "offline": "ऑफ़लाइन मोड",
+    "syncing": "सिंक हो रहा है...",
+    "last_synced": "अंतिम सिंक"
+  }
+}

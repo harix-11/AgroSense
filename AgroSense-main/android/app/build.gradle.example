@@ -1,0 +1,44 @@
+// 🔥 Firebase Configuration Guide for Android
+// File location: android/app/build.gradle
+
+android {
+    namespace "com.agrosense.app"
+    compileSdkVersion 33
+    
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
+
+    defaultConfig {
+        applicationId "com.agrosense.app"
+        minSdkVersion 21  // Minimum Android 5.0 for Firebase
+        targetSdkVersion 33
+        versionCode 1
+        versionName "1.0.0"
+        multiDexEnabled true  // Required for Firebase
+    }
+
+    buildTypes {
+        release {
+            signingConfig signingConfigs.debug
+            minifyEnabled true
+            shrinkResources true
+        }
+    }
+}
+
+dependencies {
+    implementation 'com.google.firebase:firebase-analytics'
+    implementation 'androidx.multidex:multidex:2.0.1'
+}
+
+// ⚠️ Important: Add this at the bottom of the file
+apply plugin: 'com.google.gms.google-services'
+
+// 📝 Note: Also update android/build.gradle:
+// buildscript {
+//     dependencies {
+//         classpath 'com.google.gms:google-services:4.4.0'
+//     }
+// }
